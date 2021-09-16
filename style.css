@@ -1,0 +1,204 @@
+.Top-bg{
+    background-color: #F0FFF0;
+    height: 576px;
+    width:100%;
+   
+    
+    
+}
+.navbar-brand{
+width: 150px;
+
+
+}
+.nav-link{
+    color: black !important;
+    margin-left: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+#sign-in{
+    background-color: #21B573;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 104px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    border: none;
+    
+}
+.top-p{
+    height: 24px;
+width: 188px;
+left: 205px;
+top: 178px;
+color: #FD511A;
+
+
+}
+#h1-col{
+    color:#21B573 ;
+}
+.container h1{
+    
+font-size: 48px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+
+
+} 
+
+#top-p{ 
+  width: 400px;
+font-size: 16px;
+
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+color: #6C6B6B;
+
+
+}
+#get-started{
+    height: 43px;
+width: 153px;
+left: 205px;
+top: 470px;
+border-radius: 33px;
+padding: 12px, 36px, 12px, 36px;
+color: white;
+background-color:  #21B573;
+text-decoration: none;
+
+
+}
+.top-bg-img{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    
+}
+.top-bg-doc{
+    margin-top: 100px;
+}
+.card-margin{
+    margin-top: 60px;
+}
+
+.card{
+height: 250px;
+width: 250px;
+border-radius: 10px;
+border: none !important;
+justify-content: center;
+align-items: center;
+
+
+}
+.card-body{
+    background-color:#F8FFFB ;
+    width: 250px;
+  border-radius: 10px;
+}
+.card-body img{
+    
+    width: 66px;
+    border-radius: 0px;
+    margin-top: 30px;
+   margin-left: 25px;
+}
+.card-body h5{
+margin-top: 10px;
+}
+#student{
+   
+    box-shadow: 0px 20px 40px 0px #0000001A;
+   
+    
+
+}
+#online-courses{
+    
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: center;
+margin: 50px 0 50px 0;
+}
+.card-2{
+height: 483px;
+width: 370px;
+left: 135px;
+top: 1102px;
+border-radius: 18px;
+
+}
+.card-2 img{
+
+    width: 331px;
+}
+.icon{
+height: 20px;
+width: 18px !important;
+left: 3px;
+top: 2px;
+border-radius: 0px;
+}
+.d-flex{
+    margin-top: 30px;
+}
+.card-margin{
+    margin-left: 15px;
+    margin-top: 8px;
+}
+.card-mg{
+    margin-top: 10px;
+}
+.col-fl{
+width: 300px;
+height: 450px;
+padding: 20px ;
+border-radius: 18px;
+background-color: white;
+
+}
+
+.col-sm-4 h5{
+    color: #413960;
+}
+.col-sm-4 p{
+ color: #585859;   
+
+}
+
+
+.footer-section
+{ background-color: #282531;
+    margin-top: 100px;
+    height: 369px;
+    width: 100%;
+   
+
+}
+.footer-items{
+    color: white;
+}
+.list{
+    list-style: none;
+    width: 150px;
+    margin-top: 50px;
+}
+footer p{
+    color:  #CDCDCD;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 100px;
+}
